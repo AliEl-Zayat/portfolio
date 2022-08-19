@@ -83,7 +83,7 @@ nav li a:focus {
 
 /* Start Header */
 header {
-  background-image: url("../imgs/header-bg.jpg");
+  background-image: url("/imgs/header-bg.jpg");
   background-size: cover;
   position: relative;
   width: 100%;
